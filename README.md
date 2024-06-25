@@ -42,5 +42,6 @@ Answer the following questions based on your understanding of Python programming
 - Provide code snippets or complete scripts where applicable.
 - Cite any references or sources you use in your answers.
 - Submit your completed assignment by [due date].
+below is the link to my answers: https://docs.google.com/document/d/1IrVQxHT2qzbPcAdh9dGKvk7tdpVb7eMbUBuC1nmBbjE/edit?usp=sharing
 
 
